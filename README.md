@@ -4,5 +4,15 @@ When a class spawn, in game appear a BC, fully customizable in the configs!
 | Name | Type | Description | Default |
 | --- | --- | --- | --- |
 | `is_enabled` | bool | Toggles the plugin | true |
-| `ScientistTesla` | bool | Do scientists trigger tesla gates? | false |
-| `MTFTesla` | bool | Do MTF trigger tesla gates? | false |
+| `broadcast to class` ||||
+| `ClassD` | bool | Set the message of the broadcast that will appear. If you want add class just type the name of the class under ClassD | You are a prisoner slave good luck |
+| `broadcasts_to_class_durations` ||||
+| `ClassD` | bool | Set the time of the broadcast that will appear. If you want add class just type the name of the class under ClassD | 3 |
+
+
+This plugin requires [EXILED](https://github.com/galaxy119/EXILED/releases/tag/2.1.19).
+To install EXILED go [here](https://www.youtube.com/watch?v=EUfzj8OWvQU).
+Once EXILED is installed, go to appdata/roaming/exiled/plugins and put it there. (windows)
+LINUX: .config/exiled/plugins
+
+My [Discord](http://discordapp.com/users/689841358600536096)
