@@ -16,3 +16,5 @@ Once EXILED is installed, go to appdata/roaming/exiled/plugins and put it there.
 LINUX: .config/exiled/plugins
 
 My [Discord](http://discordapp.com/users/689841358600536096)
+
+ツŞåŋšツ's [Discord](http://discordapp.com/users/777825254889619456)
