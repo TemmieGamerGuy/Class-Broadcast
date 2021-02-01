@@ -1,4 +1,4 @@
-# Private-Broadcast
+# Class Broadcast
 When a class spawn, in game appear a BC, fully customizable in the configs!
 # Configs
 | Name | Type | Description | Default |
