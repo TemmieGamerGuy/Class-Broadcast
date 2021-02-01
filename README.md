@@ -5,7 +5,7 @@ When a class spawn, in game appear a BC, fully customizable in the configs!
 | --- | --- | --- | --- |
 | `is_enabled` | bool | Toggles the plugin | true |
 | `broadcast_to_class` ||||
-| `ClassD` | int | Set the message of the broadcast that will appear. If you want add class just type the name of the class under ClassD | You are a prisoner slave good luck |
+| `ClassD` | string | Set the message of the broadcast that will appear. If you want add class just type the name of the class under ClassD | You are a prisoner slave good luck |
 | `broadcasts_to_class_durations` ||||
 | `ClassD` | int | Set the time of the broadcast that will appear. If you want add class just type the name of the class under ClassD | 3 |
 
