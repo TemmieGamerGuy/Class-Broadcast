@@ -10,10 +10,9 @@ namespace ClassBroadcast
     {
         public void OnSpawning(SpawningEventArgs ev)
         {
-            var config = ClassBroadcasts.Instance.Config;
-            if (config.BroadcastsToClass.ContainsKey(ev.RoleType))
+            if (ClassBroadcasts.Singleton.Config.BroadcastsToClass.ContainsKey(ev.RoleType))
             {
-                ev.Player.Broadcast(duration: config.BroadcastsToClassDurations[ev.RoleType], message: config.BroadcastsToClass[ev.RoleType]);
+                ev.Player.Broadcast(duration: ClassBroadcasts.Singleton.Config.BroadcastsToClassDurations[ev.RoleType], message: ClassBroadcasts.Singleton.Config.BroadcastsToClass[ev.RoleType]);
             }
         }
     }
