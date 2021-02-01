@@ -24,7 +24,7 @@ namespace ClassBroadcast
         
         public override string Prefix { get; } = "Private Broadcast"; 
         
-        public override Version Version => new Version(1, 0, 1);
+        public override Version Version => new Version(1, 0, 2);
         
         public override Version RequiredExiledVersion => new Version(2, 1, 30);
 
