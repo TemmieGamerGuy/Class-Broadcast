@@ -48,45 +48,5 @@ namespace ClassBroadcast
             Player.Spawning -= events.OnSpawning;
             events = null;
         }
-
-        public void RegisterEvents()
-        {
-
-        }
-
-        public void UnregisterEvents()
-        {
-
-        }
-
-        public override string ToString()
-        {
-            return base.ToString();
-        }
-
-        public override bool Equals(object obj)
-        {
-            return base.Equals(obj);
-        }
-
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
-
-        public override void OnReloaded()
-        {
-            base.OnReloaded();
-        }
-
-        public override void OnRegisteringCommands()
-        {
-            base.OnRegisteringCommands();
-        }
-
-        public override void OnUnregisteringCommands()
-        {
-            base.OnUnregisteringCommands();
-        }
     }
 }
