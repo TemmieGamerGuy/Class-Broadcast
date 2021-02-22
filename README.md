@@ -18,3 +18,7 @@ LINUX: .config/exiled/plugins
 My [Discord](http://discordapp.com/users/689841358600536096)
 
 ツŞåŋšツ's [Discord](http://discordapp.com/users/777825254889619456)
+
+# Downloads (thnx for the support!)
+
+![img](https://img.shields.io/github/downloads/An4r3w/class-broadcast/total?style=for-the-badge)
