@@ -9,6 +9,10 @@ When a class spawn, in game appear a BC, fully customizable in the configs!
 | `broadcasts_to_class_durations` ||||
 | `ClassD` | int | Set the time of the broadcast that will appear. If you want add class just type the name of the class under ClassD | 3 |
 
+# Commands
+| Name | Usage | Aliases | Description |
+| --- | --- | --- | --- |
+| `help` | help classbroadcast | h cbc, help c broadcast, help classbc, help class broadcast, help c broadcast | helps you with the plugin configs |
 
 This plugin requires [EXILED](https://github.com/galaxy119/EXILED/releases/tag/2.1.19).
 To install EXILED go [here](https://www.youtube.com/watch?v=EUfzj8OWvQU).
