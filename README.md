@@ -14,10 +14,14 @@ When a class spawn, in game appear a BC, fully customizable in the configs!
 | --- | --- | --- | --- |
 | `help` | help classbroadcast | h cbc, help c broadcast, help classbc, help class broadcast, help c broadcast | helps you with the plugin configs |
 
+# Installation
+
 This plugin requires [EXILED](https://github.com/galaxy119/EXILED/releases/tag/2.1.19).
 To install EXILED go [here](https://www.youtube.com/watch?v=EUfzj8OWvQU).
 Once EXILED is installed, go to appdata/roaming/exiled/plugins and put it there. (windows)
 LINUX: .config/exiled/plugins
+
+# Other Things
 
 My [Discord](http://discordapp.com/users/689841358600536096)
 
