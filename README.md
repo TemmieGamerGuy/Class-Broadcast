@@ -12,7 +12,7 @@ When a class spawn, in game appear a BC, fully customizable in the configs!
 # Commands
 | Name | Usage | Aliases | Description |
 | --- | --- | --- | --- |
-| `help` | help classbroadcast | h cbc, help c broadcast, help classbc, help class broadcast, help c broadcast | helps you with the plugin configs |
+| `help (soon, not avabile for now)` | help classbroadcast | h cbc, help c broadcast, help classbc, help class broadcast, help c broadcast | helps you with the plugin configs |
 
 # Installation
 
