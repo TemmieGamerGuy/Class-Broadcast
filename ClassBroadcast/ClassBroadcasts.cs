@@ -1,12 +1,6 @@
 ﻿using Exiled.API.Enums;
 using Exiled.API.Features;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using Server = Exiled.Events.Handlers.Server;
 using Player = Exiled.Events.Handlers.Player;
 
 namespace ClassBroadcast
